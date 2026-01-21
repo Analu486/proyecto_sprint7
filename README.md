@@ -1,5 +1,3 @@
-# proyecto_sprint7
-Proyecto Sprint 7
 # Análisis de Coches Usados en EE.UU.
 
 ## Descripción del Proyecto
